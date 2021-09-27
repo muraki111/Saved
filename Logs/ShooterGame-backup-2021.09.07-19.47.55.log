@@ -1,0 +1,13 @@
+﻿[2021.09.07-10.21.07:531][  0]Log file open, 09/07/21 19:21:07
+[2021.09.07-10.21.07:531][  0]ARK Version: 678.13
+[2021.09.07-10.21.07:531][  0]PID: 18813
+[2021.09.07-10.22.23:263][  0]Primal Game Data Took 72.98 seconds
+[2021.09.07-10.22.28:171][  0]SteamSocketsOpenSource: gethostname failed ()
+[2021.09.07-10.22.28:171][  0]gethostbyname failed ()
+[2021.09.07-10.22.53:711][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2021.09.07-10.22.53:718][  0]BattlEye successfully started.
+[2021.09.07-10.25.42:798][  0]Server: "mosquitserver" has successfully started!
+[2021.09.07-10.25.44:134][  0]ADayCycleManager DayCycleManager3, 
+[2021.09.07-10.26.24:475][  0]Commandline:  TheIsland?listen?SessionName=mosquitserver?ServerPassword=hoda?ServerAdminPassword=hodahoda?RCONEnabled=True?RCONPort=32330 -server -log
+[2021.09.07-10.26.24:483][  0]Full Startup: 319.19 seconds (BP compile: 0.00 seconds)
+[2021.09.07-10.26.24:484][  0]Number of cores 1

@@ -1,0 +1,13 @@
+﻿[2021.08.31-17.48.40:996][  0]Log file open, 09/01/21 02:48:40
+[2021.08.31-17.48.40:996][  0]ARK Version: 336.23
+[2021.08.31-17.48.40:996][  0]PID: 2051
+[2021.08.31-17.51.31:995][  0]Primal Game Data Took 165.14 seconds
+[2021.08.31-17.52.51:794][  0]SteamSocketsOpenSource: gethostname failed ()
+[2021.08.31-17.52.51:800][  0]gethostbyname failed ()
+[2021.08.31-17.54.41:826][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2021.08.31-17.54.41:894][  0]BattlEye successfully started.
+[2021.08.31-17.54.41:993][  0]Server: "hoda" has successfully started!
+[2021.08.31-17.54.43:988][  0]ADayCycleManager DayCycleManager3, 
+[2021.08.31-17.55.07:560][  0]Commandline:  TheIsland?listen?SessionName=hoda?ServerPassword=hoda?ServerAdminPassword=hodahoda -server -log
+[2021.08.31-17.55.07:567][  0]Full Startup: 390.68 seconds (BP compile: 0.00 seconds)
+[2021.08.31-17.55.07:569][  0]Number of cores 1
